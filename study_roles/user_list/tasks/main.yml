@@ -1,0 +1,9 @@
+---
+  - name: executing command 'cat /etc/passwd'
+    shell: 'cat /etc/passwd'
+    register: result
+  - template:
+     src: templates/example1.j2
+     dest: /home/ec2-user/study_roles/user_list
+  - name: Print debug message
+    debug: var=result.stdout_lines

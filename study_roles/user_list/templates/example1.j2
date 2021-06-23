@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>User Creation Report</title>
+</head>
+<body>
+<table cellpadding=3 cellspacing=1 bgcolor=#000000>
+<tr>
+<td bgcolor=white><FONT face=Verdana size=1.5 ><center><b>List Of Users</b></center></font></td>
+</tr>
+<tr>
+<td bgcolor=white><FONT face=Verdana size=1.5 >
+<table cellpadding=3 cellspacing=1 bgcolor=#000000 style='font-family:verdana; font-size:7pt;'>
+<tr bgcolor=white><th>Hostname</th><th>Username</th></tr>
+{% for hostname in ansible_play_hosts %}
+<tr bgcolor=white align=center>
+
+
+
+<td>{{ hostvars[hostname].inventory_hostname }}</td>
+
+<td>
+{% for i in result.stdout_lines %}
+{{ i }}
+{% endfor %}
+</td>
+</tr>
+{% endfor %}
+</table>
+</font></td></tr>
+</table>
+</body>
+</html>
+
