@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Trigger playbook') {
             steps {
-                 sh "ansible-playbook /home/ec2-user/Playbooks"
+                 sh "ansible-playbook /home/ec2-user/Playbooks/playbook.yml"
     }
         }    
         stage('Post action') {
