@@ -62,3 +62,39 @@ mkdir config
 ls 
 git init 
 git config 
+git status 
+git add -A
+git status 
+git add --all
+git commit -m 'First commit'
+git remote add origin https://github.com/Manisha1597/Ansible-demo.git
+git remote -v
+git push origin master
+git pull Ansible-demo
+git pull Manisha1597
+/
+Ansible-demo
+git pull Manisha1597/Ansible-demo
+git fetch origin master
+git status 
+git push origin master
+git merge origin master
+git status 
+git fetch origin master
+git merge origin master
+git push --force origin master
+ls 
+git add reports
+git commit -m "2"
+cd config
+ls 
+vi main.yml
+ls 
+cd ..
+ls 
+cd reports
+vi readme.md
+cd ..
+ls 
+cd scripts 
+ls 

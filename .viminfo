@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1624975666,,"wq"
+|2,0,1624979806,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,74 +25,246 @@
 # Registers:
 
 # File marks:
-'0  7  32  ~/Playbooks/role1/tasks/main.yml
-|4,48,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
-'1  32  6  ~/Playbooks/role1/templates/example1.j2
-|4,49,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
-'2  9  33  ~/Playbooks/role1/tasks/main.yml
-|4,50,9,33,1624975497,"~/Playbooks/role1/tasks/main.yml"
-'3  9  33  ~/Playbooks/role1/tasks/main.yml
-|4,51,9,33,1624975497,"~/Playbooks/role1/tasks/main.yml"
-'4  7  20  ~/Playbooks/playbook.yml
-|4,52,7,20,1624958918,"~/Playbooks/playbook.yml"
+'0  1  0  ~/scripts/shell/readme.md
+|4,48,1,0,1624979806,"~/scripts/shell/readme.md"
+'1  1  0  ~/scripts/python/readme.md
+|4,49,1,0,1624979784,"~/scripts/python/readme.md"
+'2  1  0  ~/config/main.yml
+|4,50,1,0,1624979654,"~/config/main.yml"
+'3  1  0  ~/reports/readme.md
+|4,51,1,0,1624977940,"~/reports/readme.md"
+'4  1  0  ~/config/main.yml
+|4,52,1,0,1624977875,"~/config/main.yml"
+'5  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,53,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+'6  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,54,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+'7  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,55,9,33,1624975497,"~/Playbooks/role1/tasks/main.yml"
+'8  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,56,9,33,1624975497,"~/Playbooks/role1/tasks/main.yml"
+'9  7  20  ~/Playbooks/playbook.yml
+|4,57,7,20,1624958918,"~/Playbooks/playbook.yml"
 
 # Jumplist (newest first):
+-'  1  0  ~/scripts/shell/readme.md
+|4,39,1,0,1624979806,"~/scripts/shell/readme.md"
+-'  1  0  ~/scripts/python/readme.md
+|4,39,1,0,1624979784,"~/scripts/python/readme.md"
+-'  1  0  ~/scripts/python/readme.md
+|4,39,1,0,1624979784,"~/scripts/python/readme.md"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624979654,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624979654,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624979654,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624979654,"~/config/main.yml"
+-'  1  0  ~/reports/readme.md
+|4,39,1,0,1624977940,"~/reports/readme.md"
+-'  1  0  ~/reports/readme.md
+|4,39,1,0,1624977940,"~/reports/readme.md"
+-'  1  0  ~/reports/readme.md
+|4,39,1,0,1624977940,"~/reports/readme.md"
+-'  1  0  ~/reports/readme.md
+|4,39,1,0,1624977940,"~/reports/readme.md"
+-'  1  0  ~/reports/readme.md
+|4,39,1,0,1624977940,"~/reports/readme.md"
+-'  1  0  ~/reports/readme.md
+|4,39,1,0,1624977940,"~/reports/readme.md"
+-'  1  0  ~/reports/readme.md
+|4,39,1,0,1624977940,"~/reports/readme.md"
+-'  1  0  ~/reports/readme.md
+|4,39,1,0,1624977940,"~/reports/readme.md"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624977875,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624977875,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624977875,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624977875,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624977875,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624977875,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624977875,"~/config/main.yml"
+-'  1  0  ~/config/main.yml
+|4,39,1,0,1624977875,"~/config/main.yml"
 -'  7  32  ~/Playbooks/role1/tasks/main.yml
 |4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  7  32  ~/Playbooks/role1/tasks/main.yml
+|4,39,7,32,1624975666,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
+-'  9  33  ~/Playbooks/role1/tasks/main.yml
+|4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
 -'  9  33  ~/Playbooks/role1/tasks/main.yml
 |4,39,9,33,1624975617,"~/Playbooks/role1/tasks/main.yml"
 -'  32  6  ~/Playbooks/role1/templates/example1.j2
 |4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
 -'  32  6  ~/Playbooks/role1/templates/example1.j2
 |4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
--'  1  0  ~/Playbooks/role1/templates/example1.j2
-|4,39,1,0,1624975549,"~/Playbooks/role1/templates/example1.j2"
--'  1  0  ~/Playbooks/role1/templates/example1.j2
-|4,39,1,0,1624975549,"~/Playbooks/role1/templates/example1.j2"
--'  9  33  ~/Playbooks/role1/tasks/main.yml
-|4,39,9,33,1624975497,"~/Playbooks/role1/tasks/main.yml"
--'  9  33  ~/Playbooks/role1/tasks/main.yml
-|4,39,9,33,1624975497,"~/Playbooks/role1/tasks/main.yml"
--'  1  0  ~/Playbooks/role1/tasks/main.yml
-|4,39,1,0,1624975478,"~/Playbooks/role1/tasks/main.yml"
--'  1  0  ~/Playbooks/role1/tasks/main.yml
-|4,39,1,0,1624975478,"~/Playbooks/role1/tasks/main.yml"
--'  1  0  ~/Playbooks/role1/tasks/main.yml
-|4,39,1,0,1624975478,"~/Playbooks/role1/tasks/main.yml"
--'  7  20  ~/Playbooks/playbook.yml
-|4,39,7,20,1624958918,"~/Playbooks/playbook.yml"
--'  7  20  ~/Playbooks/playbook.yml
-|4,39,7,20,1624958918,"~/Playbooks/playbook.yml"
--'  7  20  ~/Playbooks/playbook.yml
-|4,39,7,20,1624958918,"~/Playbooks/playbook.yml"
--'  7  20  ~/Playbooks/playbook.yml
-|4,39,7,20,1624958918,"~/Playbooks/playbook.yml"
--'  7  20  ~/Playbooks/playbook.yml
-|4,39,7,20,1624958918,"~/Playbooks/playbook.yml"
--'  7  20  ~/Playbooks/playbook.yml
-|4,39,7,20,1624958918,"~/Playbooks/playbook.yml"
--'  7  20  ~/Playbooks/playbook.yml
-|4,39,7,20,1624958918,"~/Playbooks/playbook.yml"
--'  7  20  ~/Playbooks/playbook.yml
-|4,39,7,20,1624958918,"~/Playbooks/playbook.yml"
--'  1  0  ~/Playbooks/playbook.yml
-|4,39,1,0,1624958873,"~/Playbooks/playbook.yml"
--'  1  0  ~/Playbooks/playbook.yml
-|4,39,1,0,1624958873,"~/Playbooks/playbook.yml"
--'  1  0  ~/Playbooks/playbook.yml
-|4,39,1,0,1624958873,"~/Playbooks/playbook.yml"
--'  1  0  ~/Playbooks/playbook.yml
-|4,39,1,0,1624958873,"~/Playbooks/playbook.yml"
--'  1  0  ~/Playbooks/playbook.yml
-|4,39,1,0,1624958873,"~/Playbooks/playbook.yml"
--'  1  0  ~/Playbooks/playbook.yml
-|4,39,1,0,1624958873,"~/Playbooks/playbook.yml"
--'  1  0  ~/Playbooks/playbook.yml
-|4,39,1,0,1624958873,"~/Playbooks/playbook.yml"
--'  1  0  ~/Playbooks/playbook.yml
-|4,39,1,0,1624958873,"~/Playbooks/playbook.yml"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
+-'  32  6  ~/Playbooks/role1/templates/example1.j2
+|4,39,32,6,1624975554,"~/Playbooks/role1/templates/example1.j2"
 
 # History of marks within files (newest to oldest):
+
+> ~/scripts/shell/readme.md
+	*	1624979805	0
+	"	1	0
+
+> ~/scripts/python/readme.md
+	*	1624979781	0
+	"	1	0
+
+> ~/config/main.yml
+	*	1624979653	0
+	"	1	0
+
+> ~/reports/readme.md
+	*	1624977939	0
+	"	1	0
 
 > ~/Playbooks/role1/tasks/main.yml
 	*	1624975665	0
