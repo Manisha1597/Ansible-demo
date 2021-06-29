@@ -1,0 +1,7 @@
+---
+- name: use user role playbook
+  hosts: localhost
+  become: true
+
+  roles:
+    - role: user_list
