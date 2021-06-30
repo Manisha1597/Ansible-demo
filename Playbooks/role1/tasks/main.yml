@@ -4,6 +4,6 @@
     register: result
   - template:
      src: templates/example1.j2
-     dest: /home/ec2-user/reports/output.html
+     dest: /var/lib/jenkins/workspace/ansible-demo/reports/output.html
   - name: Print debug message
     debug: var=result.stdout_lines
