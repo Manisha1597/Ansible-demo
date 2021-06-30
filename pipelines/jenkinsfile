@@ -3,7 +3,7 @@ pipeline {
     stages{
         stage('Repo Clone'){
             steps{
-                git credentialsId: '757e3131-ac60-42de-8419-f44a49936b91', url: 'https://github.com/Manisha1597/Ansible-demo.git'
+                git 'https://github.com/Manisha1597/Ansible-demo.git''
             }
         }
         stage('Trigger playbook') {
