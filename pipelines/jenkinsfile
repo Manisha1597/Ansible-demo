@@ -20,7 +20,7 @@ pipeline {
 post {
      success {
 sh "echo 'postbuild'"
-publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: '/var/lib/jenkins/workspace/ansible-demo/reports/output.html', reportFiles: 'index.html', reportName: 'HTML Report', reportTitles: 'report'])
+publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: '/var/lib/jenkins/workspace/ansible-demo/reports', reportFiles: 'index.html', reportName: 'HTML Report', reportTitles: 'report'])
 }
 }
 }
