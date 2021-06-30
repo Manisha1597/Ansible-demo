@@ -3,7 +3,7 @@ pipeline {
     stages{
         stage('Repo Clone'){
             steps{
-                git 'https://github.com/Manisha1597/Ansible-demo.git''
+                git 'https://github.com/Manisha1597/Ansible-demo.git'
             }
         }
         stage('Trigger playbook') {
